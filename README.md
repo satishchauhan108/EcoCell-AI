@@ -1,4 +1,4 @@
-
+ 
 # EcoCell-AI: AI for 5G Energy Consumption Modelling
 
 An AI-based machine learning project for predicting energy consumption across 5G base stations using telecom traffic, operational data, temporal feature engineering, neural networks, and model explainability.
